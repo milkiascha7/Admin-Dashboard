@@ -425,7 +425,7 @@ const Dashboard = () => {
           </InputLeftElement>
           <Input type="number" placeholder="130.00 birr" />
         </InputGroup>
-        <Button mt={4} bgColor="blackAlpha.900" color="#fff" p={7} borderRadius={15}>Send Money</Button>
+        <Button mt={4} bgColor="WhiteAlpha.900" color="#000" p={7} borderRadius={15}>Send Money</Button>
       </Flex>
     </Flex >
   )
