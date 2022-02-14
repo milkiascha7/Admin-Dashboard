@@ -245,6 +245,7 @@ const Dashboard = () => {
         p="3%"
         flexDir="column"
         overflow="auto"
+        color="#fff"
         backgroundColor="#020202"
       >
         <Flex alignContent="center">
