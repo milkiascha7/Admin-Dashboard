@@ -270,7 +270,7 @@ const Dashboard = () => {
             2
           </Flex>
         </Flex>
-        <Heading>My Cards</Heading>
+        <Heading color="gray.100">My Cards</Heading>
         {value == 1 &&
           <Box
             borderRadius="25px"
